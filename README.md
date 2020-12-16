@@ -3,8 +3,8 @@
 
 # Datasets are:
 
-- Car Crashes
-- Tips
+- [Car Crashes](https://github.com/mwaskom/seaborn-data/blob/master/car_crashes.csv)
+- [Tips](https://github.com/mwaskom/seaborn-data/blob/master/tips.csv)
 Technologies:
 
 Used python, Seaborn, and jupyterlab.
